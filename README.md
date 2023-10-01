@@ -2,6 +2,7 @@
 
 <h2> PDF to TXT translator</h2>
 
+- Should be run from the file "pdf_to_text_translator.py" from the PDF_Translator folder.
 - Packages needed for this are:
     - "googletrans" --> pip googletrans==4.0.0rc1
     - "PyPDF2"      --> pip install PyPDF2
